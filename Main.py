@@ -32,6 +32,6 @@
 # sizeM = int(input('Введите m долек: '))
 # amount = int(input('Введите k долек: '))
 # if amount % sizeN == 0 or amount % sizeM == 0 and amount < sizeN * sizeM:
-#     print(f'"Yes" от шоколадки размером {sizeN} x {sizeM} 3можно отломить {amount} долек')
+#     print(f'"Yes" от шоколадки размером {sizeN} x {sizeM} можно отломить {amount} долек')
 # else:
 #     print(f'"No" от шоколадки размером {sizeN} x {sizeM} нельзя отломить {amount} долек')
